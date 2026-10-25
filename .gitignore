@@ -1,0 +1,93 @@
+# --- Python Configuration & Cache ---
+__pycache__/
+*.py[cod]
+*$*.py
+.pytest_cache/
+.venv
+venv/
+ENV/
+env/
+
+# --- Data File Backups (Keep Repository Light) ---
+*.xlsx
+*.xls
+*.csv
+*.tsv
+
+# --- Google Cloud Secrets & Credentials ---
+*.json
+.gcp/
+credentials/
+secrets/
+*service-account*.json
+
+# --- IDE and Operating System Files ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
+# ==============================================================================
+# ULTIMATE MASTER GITIGNORE (PYTHON, SQL, POWER BI, EXCEL & SYSTEM FILES)
+# ==============================================================================
+
+# 1. Windows & OS System Files (Removes hidden OS clutter)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# 2. Code Editors & IDEs (VS Code, Jupyter, PyCharm)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# 3. Security & Credentials (CRITICAL: Keeps your passwords safe)
+.env
+.env.local
+.env.*
+secrets.json
+config.json
+credentials.json
+*.pem
+*.key
+
+# 4. Excel & CSV Data Files (Protects datasets from uploading)
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.xlsm
+*.ods
+
+# 5. Python System Caches & Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+ENV/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# 6. Power BI Desktop Temporary & Backup Files
+*.pbit
+*.pbi
+*.pbix.nested
+*.pbix.tmp
+_PowerBI/
+
+# 7. SQL Database Backups & System Logs
+*.log
+*.sqlite
+*.db
+*.bak
+*.sql.bak
