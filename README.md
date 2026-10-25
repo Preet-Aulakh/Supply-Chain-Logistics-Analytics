@@ -11,7 +11,7 @@ An enterprise-grade, hybrid data engineering and business intelligence solution.
 
 ## 🔗 Live Interactive Dashboard
 
-👉 **[Click Here to View the Live Production Dashboard]([https://google.com](https://datastudio.google.com/reporting/28ce3b85-7cc9-4f93-b8f3-84409624ae99))**  
+👉 **[Click Here to View the Live Production Dashboard](https://datastudio.google.com/reporting/28ce3b85-7cc9-4f93-b8f3-84409624ae99)**  
 *(This link provides full interactive access to filters, carrier segmentations, and dynamic business metrics live on Looker Studio).*
 
 ---
