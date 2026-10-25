@@ -4,6 +4,11 @@ An enterprise-grade, hybrid data engineering and business intelligence solution.
 
 ---
 
+## 📸 Dashboard Preview
+![Supply Chain Logistics Dashboard](Dashboard.png)
+
+---
+
 ## 🏗️ Project Architecture & Data Flow
 
 The pipeline moves seamlessly across cloud and serverless components to build a scalable data loop:
